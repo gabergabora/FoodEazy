@@ -11,7 +11,7 @@ const orders = new Schema({
 		type: String
 	},
 	mode: {
-		type: String,
+		type: String,          
 		required: true
 	},
 	order: {
